@@ -6,3 +6,13 @@ checkpoints/*
 **/*.swp
 **/*.pt
 **/*.pth
+**/.ipynb_checkpoints/
+clip/
+
+models/myclip.py
+utils/data_bk.py
+utils/data_bk2.py
+utils/data_bk3.py
+
+train_my_clip.py
+test_myclip.ipynb
