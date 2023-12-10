@@ -9,7 +9,10 @@ checkpoints/*
 **/.ipynb_checkpoints/
 clip/
 
+models/clicker.py
 models/myclip.py
+models/blocks.py
+
 utils/data_bk.py
 utils/data_bk2.py
 utils/data_bk3.py
